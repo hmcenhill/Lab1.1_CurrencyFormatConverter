@@ -1,0 +1,7 @@
+c:\users\himcen\source\repos\Lab1-1-CurrencyFormatConverter\Lab1-1-CurrencyFormatConverter\obj\Debug\Lab1-1-CurrencyFormatConverter.csprojAssemblyReference.cache
+c:\users\himcen\source\repos\Lab1-1-CurrencyFormatConverter\Lab1-1-CurrencyFormatConverter\obj\Debug\Lab1-1-CurrencyFormatConverter.csproj.CoreCompileInputs.cache
+c:\users\himcen\source\repos\Lab1-1-CurrencyFormatConverter\Lab1-1-CurrencyFormatConverter\bin\Debug\Lab1-1-CurrencyFormatConverter.exe.config
+c:\users\himcen\source\repos\Lab1-1-CurrencyFormatConverter\Lab1-1-CurrencyFormatConverter\bin\Debug\Lab1-1-CurrencyFormatConverter.exe
+c:\users\himcen\source\repos\Lab1-1-CurrencyFormatConverter\Lab1-1-CurrencyFormatConverter\bin\Debug\Lab1-1-CurrencyFormatConverter.pdb
+c:\users\himcen\source\repos\Lab1-1-CurrencyFormatConverter\Lab1-1-CurrencyFormatConverter\obj\Debug\Lab1-1-CurrencyFormatConverter.exe
+c:\users\himcen\source\repos\Lab1-1-CurrencyFormatConverter\Lab1-1-CurrencyFormatConverter\obj\Debug\Lab1-1-CurrencyFormatConverter.pdb
